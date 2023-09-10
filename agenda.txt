@@ -3,3 +3,4 @@ agenda kedepan
 -mencari/menyewa hosting
 -menyelesaikan kursus
 -sudah kerja
+-buat fitur
