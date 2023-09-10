@@ -7,3 +7,4 @@ agenda kedepan
 #buat fitur edit
 #buat fitur payment
 #buat fitur chat
+#buat fitur foto
