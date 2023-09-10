@@ -4,3 +4,5 @@ agenda kedepan
 -menyelesaikan kursus
 -sudah kerja
 -buat fitur
+#buat fitur edit
+#buat fitur foto
